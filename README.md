@@ -1,4 +1,4 @@
-# Kidney_Stone_Prediction
+# Kidney Stone Prediction
 ![Kidney_stone_image](https://www.genengnews.com/wp-content/uploads/2018/08/Jan3_2018_BruceBlausen_KidneyStones1806820794-1068x808.png)
 ## About Dataset
 
