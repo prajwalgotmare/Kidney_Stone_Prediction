@@ -1,7 +1,7 @@
 # Kidney Stone Prediction
-
-<img src="https://domf5oio6qrcr.cloudfront.net/medialibrary/9795/GettyImages-843352558.jpg" width="500">
-
+<div align="center">
+<img src="https://domf5oio6qrcr.cloudfront.net/medialibrary/9795/GettyImages-843352558.jpg" width="600">
+</div>
 
 ## About Dataset
 
