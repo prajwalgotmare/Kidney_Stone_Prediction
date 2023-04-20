@@ -1,7 +1,8 @@
 # Kidney Stone Prediction
 <!-- ![Kidney_stone_image](https://www.genengnews.com/wp-content/uploads/2018/08/Jan3_2018_BruceBlausen_KidneyStones1806820794-1068x808.png){:height="100px" width="100px"} -->
 
-<img src="https://example.com/large-image.jpg](https://www.genengnews.com/wp-content/uploads/2018/08/Jan3_2018_BruceBlausen_KidneyStones1806820794-1068x808.png" width="300">
+<img src="https://www.genengnews.com/wp-content/uploads/2018/08/Jan3_2018_BruceBlausen_KidneyStones1806820794-1068x808.png" width="300">
+
 
 ## About Dataset
 
