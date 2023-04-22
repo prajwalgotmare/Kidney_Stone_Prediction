@@ -3,8 +3,7 @@
 <img src="https://domf5oio6qrcr.cloudfront.net/medialibrary/9795/GettyImages-843352558.jpg" width="600">
 </div>
 
-## About the Dataset
-
+## About dataset
 The kidney-stone-dataset.csv is a comma-separated values file containing data on patients with kidney stones. The file has 90 rows and 8 columns, with each row representing a patient and each column providing information on various characteristics and laboratory test results. The dataset includes a target variable, "target", which is a continuous variable representing the risk of developing kidney stones. The dataset can be used for tasks such as predicting the risk of kidney stones based on patient characteristics and test results.
 
 The eight columns in the dataset are as follows:
@@ -18,12 +17,20 @@ The eight columns in the dataset are as follows:
 - target: the risk of developing kidney stones (continuous variable)
 - shape: the shape of the dataset (90, 8)
 
-## Basic EDA
-
+## Performing Basic EDA and training
 To explore the dataset, I have performed basic EDA by loading the dataset into Python's Pandas library. I have checked for missing values, computed summary statistics, and created visualizations of the data. This EDA helps in understanding the dataset and identifying potential issues that need to be addressed before training models.
 
-## Possible Predictions and Training Different Models
+This project aims to predict the risk of developing kidney stones based on patient characteristics and test results. The dataset used for this project contains various features related to kidney stones, such as age, gender, and various medical test results.
 
-The kidney stone dataset can be used for various predictive modeling tasks, such as predicting the risk of developing kidney stones based on patient characteristics and test results. I have trained different machine learning models on the dataset, including linear regression, decision trees, and neural networks. By comparing their performance in terms of accuracy and other metrics, I have identified the best performing model for predicting the risk of kidney stones.
+Several machine learning algorithms were used to train, test and evaluate the model, including:
 
-Overall, the kidney stone dataset is a valuable resource for researchers and healthcare professionals interested in developing better prevention and treatment strategies for kidney stones.
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- SVM
+- Gradient Boosting
+- Artificial Neural Networks 
+
+## Conclusion :
+
+This project demonstrates the effectiveness of machine learning algorithms for predicting the risk of developing kidney stones. The results suggest that the Decision Tree algorithm can be a valuable tool for healthcare professionals in developing prevention and treatment strategies for kidney stones. Also the data available was too less to train any powerful ML, DL algorithms.
