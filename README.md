@@ -5,9 +5,18 @@
 
 ## About the Dataset
 
-The kidney-stone-dataset.csv is a comma-separated values file containing data on patients with kidney stones. The file has 255 rows and 21 columns, with each row representing a patient and each column providing information on various characteristics and laboratory test results. The dataset includes a target variable, "Risk of Stone", which is a continuous variable representing the risk of developing kidney stones.
+The kidney-stone-dataset.csv is a comma-separated values file containing data on patients with kidney stones. The file has 90 rows and 8 columns, with each row representing a patient and each column providing information on various characteristics and laboratory test results. The dataset includes a target variable, "target", which is a continuous variable representing the risk of developing kidney stones. The dataset can be used for tasks such as predicting the risk of kidney stones based on patient characteristics and test results.
 
-The dataset contains 12 features related to the risk of developing kidney stones, including age, gender, weight, height, family history, and various blood and urine measurements. The dataset is useful for building predictive models to identify individuals at high risk for kidney stones, which can aid in the development of prevention and treatment strategies.
+The eight columns in the dataset are as follows:
+
+- gravity: the specific gravity of urine
+- pH: the pH level of urine
+- osmo: the osmolarity of urine
+- cond: the conductivity of urine
+- urea: the urea concentration of urine
+- calc: the calcium concentration of urine
+- target: the risk of developing kidney stones (continuous variable)
+- shape: the shape of the dataset (90, 8)
 
 ## Basic EDA
 
